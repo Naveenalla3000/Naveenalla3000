@@ -87,13 +87,4 @@
             src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a>
 </p>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenalla3000&show_icons=true&locale=en&layout=compact"
-        alt="naveenalla3000" /></p>
-
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=naveenalla3000&show_icons=true&locale=en"
-        alt="naveenalla3000" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenalla3000&"
-        alt="naveenalla3000" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Naveenalla3000&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
