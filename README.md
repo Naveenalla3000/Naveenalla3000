@@ -2,9 +2,9 @@
 <p align="left">
 <h1 align="center">Hi 👋, I'm Naveenalla3000</h1>
 <h3 align="center">A passionate full-Stack developer from India</h3>
-<hr / style="width: 50%;">
+
 <p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=naveenalla3000&label=Profile%20views&color=0e75b6&style=flat"
+        src="https://komarev.com/ghpvc/?username=naveenalla3000&label=Profile%20views&color=fedcba&style=flat"
         alt="naveenalla3000" /> </p>
 
 ![GitHub followers](https://img.shields.io/github/followers/Naveenalla3000?style=plastic&logo=appveyor&labelColor=ffffff&color=fedcba&cacheSeconds=3600)
