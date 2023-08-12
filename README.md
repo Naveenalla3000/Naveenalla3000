@@ -61,8 +61,12 @@
     <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
       alt="express" />
 </p>
+<p align="center"> 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Naveenalla3000&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+</p>
+
 
 
 [![Naveenalla3000's GitHub | Topics Over Time](https://stats.quine.sh/Naveenalla3000/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Naveenalla3000)
