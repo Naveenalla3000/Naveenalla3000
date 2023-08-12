@@ -11,6 +11,8 @@
         alt="naveenalla3000" /> </p>
 
 ![GitHub followers](https://img.shields.io/github/followers/Naveenalla3000?style=plastic&logo=appveyor&labelColor=ffffff&color=fedcba&cacheSeconds=3600)
+![GitHub followers](https://img.shields.io/github/followers/Naveenalla3000?style=flat&logoColor=blue&labelColor=white&color=fedcba&cacheSeconds=3600&size=large)
+
 
 
 
