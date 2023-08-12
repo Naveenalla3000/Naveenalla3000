@@ -4,7 +4,7 @@
 <h3 align="center">A passionate full-Stack developer from India</h3>
 
 <p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=naveenalla3000&label=Profile%20views&color=fedcba&style=flat"
+        src="https://komarev.com/ghpvc/?username=naveenalla3000?style=plastic&logo=appveyor&labelColor=ffffff&color=fedcba&cacheSeconds=3600"
         alt="naveenalla3000" /> </p>
 
 ![GitHub followers](https://img.shields.io/github/followers/Naveenalla3000?style=plastic&logo=appveyor&labelColor=ffffff&color=fedcba&cacheSeconds=3600)
