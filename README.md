@@ -13,6 +13,8 @@
 <p align="left"> <a href="https://twitter.com/naveen alla" target="blank"><img
             src="https://img.shields.io/twitter/follow/naveen alla?logo=twitter&style=for-the-badge"
             alt="naveen alla" /></a> </p>
+            https://img.shields.io/github/followers/Naveenalla3000?style=plastic&logo=appveyor&labelColor=ffffff&color=fedcba&cacheSeconds=3600
+
 
 - 🌱 I’m currently learning **React Native,python,AWS**
 
