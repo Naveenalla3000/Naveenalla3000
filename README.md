@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naveenalla3000</h1>
 <h3 align="center">A passionate full-Stack developer from India</h3>
 
-
 ![GitHub followers](https://img.shields.io/github/followers/Naveenalla3000?style=plastic&logo=appveyor&labelColor=ffffff&color=fedcba&cacheSeconds=3600)
 
 
@@ -61,12 +60,18 @@
     <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
       alt="express" />
 </p>
-<p align="center"> 
 
+---
+<div align="center">
+<h3 align="center"> Status</h3>
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Naveenalla3000&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-</p>
-
-
+</br>
 
 [![Naveenalla3000's GitHub | Topics Over Time](https://stats.quine.sh/Naveenalla3000/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Naveenalla3000)
+
+</div>
+
+
+
+
