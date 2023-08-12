@@ -10,10 +10,8 @@
         src="https://komarev.com/ghpvc/?username=naveenalla3000&label=Profile%20views&color=0e75b6&style=flat"
         alt="naveenalla3000" /> </p>
 
-<p align="left"> <a href="https://twitter.com/naveen alla" target="blank"><img
-            src="https://img.shields.io/twitter/follow/naveen alla?logo=twitter&style=for-the-badge"
-            alt="naveen alla" /></a> </p>
-            https://img.shields.io/github/followers/Naveenalla3000?style=plastic&logo=appveyor&labelColor=ffffff&color=fedcba&cacheSeconds=3600
+![GitHub followers](https://img.shields.io/github/followers/Naveenalla3000?style=plastic&logo=appveyor&labelColor=ffffff&color=fedcba&cacheSeconds=3600)
+
 
 
 - 🌱 I’m currently learning **React Native,python,AWS**
