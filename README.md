@@ -88,3 +88,6 @@
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Naveenalla3000&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+
+[![Naveenalla3000's GitHub | Topics Over Time](https://stats.quine.sh/Naveenalla3000/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Naveenalla3000)
