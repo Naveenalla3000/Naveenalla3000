@@ -20,6 +20,8 @@
 ⚡ Fun fact **What is stacks and ends? 🤔**
 
  </div>
+ 
+---
 
   <h3 align="center">Languages</h3>
   <div align="center">
@@ -93,6 +95,9 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Naveenalla3000&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+<br/>
+
+[![Naveenalla3000's GitHub | Topics Over Time](https://stats.quine.sh/Naveenalla3000/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Naveenalla3000)
 
 </div>
 
