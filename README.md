@@ -1,16 +1,25 @@
-<h1 align="center">Hi 👋, I'm Naveenalla3000</h1>
-<h3 align="center">A passionate full-Stack developer from India</h3>
+<div align="right"
 
 ![GitHub followers](https://img.shields.io/github/followers/Naveenalla3000?style=plastic&logo=appveyor&labelColor=ffffff&color=fedcba&cacheSeconds=3600)
 
+</div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naveen+alla!;" />
+</h1>
 
-- 🌱 I’m currently learning **React Native,Python,AWS**
+<h3 align="center">A passionate full-Stack developer from India</h3>
 
-- 💬 Ask me about **MERN STACK,Amazon Web Services**
+<div align="center">
 
-- 📫 How to reach me **naveenalla3000@gmail.com**
+🌱 I’m currently learning **React Native,Python,**
 
-- ⚡ Fun fact **What is stack? 🤔**
+💬 Ask me about **MERN STACK,Python**
+
+📫 How to reach me **naveenalla3000@gmail.com**
+
+⚡ Fun fact **What is stacks and ends? 🤔**
+
+ </div>
 
   <h3 align="center">Languages</h3>
   <div align="center">
@@ -76,7 +85,7 @@
 
 ---
 <div align="center">
-<h3 align="center"> Git Status</h3>
+<h3 align="center">⚡  Git Status ⚡ </h3>
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=Naveenalla3000&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 </br>
@@ -86,8 +95,8 @@
 </div>
 
 ---
-
-<p align="center">My contributions
+<h3 align="center"> 🐍 My Contributions 🐍 </h3>
+<p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
