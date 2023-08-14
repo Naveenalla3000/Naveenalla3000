@@ -86,11 +86,13 @@
 ---
 <div align="center">
 <h3 align="center">⚡  Git Status ⚡ </h3>
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Naveenalla3000&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-</br>
-
-[![Naveenalla3000's GitHub | Topics Over Time](https://stats.quine.sh/Naveenalla3000/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Naveenalla3000)
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=Naveenalla3000&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Naveenalla3000&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Naveenalla3000&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 </div>
 
@@ -100,7 +102,5 @@
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
-
-
 
 
