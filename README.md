@@ -16,7 +16,7 @@
   <div align="center">
 
     
-  [![My Skills](https://skillicons.dev/icons?i=c,java,python,javascript,bash,html,css&perline=7)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,java,python,javascript,html,css&perline=7)](https://skillicons.dev)
 
   </div>
 
@@ -49,7 +49,7 @@
   </div>
 </p>
 
-<h3 align="center">Cloud and hosting</h3>
+<h3 align="center">Cloud and Hosting</h3>
 <div align="center">
 
     
@@ -65,18 +65,18 @@
 
   </div>
 </p>
-<h3 align="center">Tools andcode editors </h3>
+<h3 align="center">Tools and Code editors </h3>
 <div align="center">
 
     
-  [![My Skills](https://skillicons.dev/icons?i=idea,appwrite,docker,vscode,neovim,vim,postman,figma,linux&perline=5)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=idea,appwrite,docker,vscode,neovim,vim,postman,figma,linux,bash&perline=5)](https://skillicons.dev)
 
   </div>
 </p>
 
 ---
 <div align="center">
-<h3 align="center"> Status</h3>
+<h3 align="center"> Git Status</h3>
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=Naveenalla3000&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 </br>
