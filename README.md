@@ -99,6 +99,8 @@
 
 [![Naveenalla3000's GitHub | Topics Over Time](https://stats.quine.sh/Naveenalla3000/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Naveenalla3000)
 
+[![Naveenalla3000's GitHub | Languages Over Time](https://stats.quine.sh/Naveenalla3000/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Naveenalla3000)
+
 </div>
 
 ---
